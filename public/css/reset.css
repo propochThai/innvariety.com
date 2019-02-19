@@ -1,0 +1,8 @@
+* { margin: 0; padding: 0; }
+html, body, div, h1, h2, h3, h4, h5, h6, ul, ol, dl, li, dt, dd, p, blockquote, pre, form, fieldset, table, th, td {
+margin: 0; padding: 0; }
+a img, input, select { border: 0; }
+a { color: #000; text-decoration: none; }
+a:hover {text-decoration:none;}
+h1, h2, h3, h4, h5, h6 { float: none; margin: 0px; padding: 0px; font-weight: normal; }
+ul, li { line-height: normal; list-style-type: none; margin: 0; padding: 0; }
